@@ -1,4 +1,4 @@
-FROM Centos:6
+FROM centos:6
 
 MAINTAINER hx <77592244@qq.com>
 
